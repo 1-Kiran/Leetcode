@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/1-Kiran/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [0704-binary-search](https://github.com/1-Kiran/Leetcode/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/1-Kiran/Leetcode/tree/master/0035-search-insert-position) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1-Kiran/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/1-Kiran/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/1-Kiran/Leetcode/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/1-Kiran/Leetcode/tree/master/0035-search-insert-position) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1-Kiran/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
