@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/1-Kiran/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/1-Kiran/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [0704-binary-search](https://github.com/1-Kiran/Leetcode/tree/master/0704-binary-search) |
+| [0035-search-insert-position](https://github.com/1-Kiran/Leetcode/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/1-Kiran/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/1-Kiran/Leetcode/tree/master/0704-binary-search) |
+| [0035-search-insert-position](https://github.com/1-Kiran/Leetcode/tree/master/0035-search-insert-position) |
 ## Sliding Window
 |  |
 | ------- |
