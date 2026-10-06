@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/1-Kiran/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/1-Kiran/Leetcode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,10 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/1-Kiran/Leetcode/tree/master/0344-reverse-string) |
 | [0151-reverse-words-in-a-string](https://github.com/1-Kiran/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/1-Kiran/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/1-Kiran/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/1-Kiran/Leetcode/tree/master/0344-reverse-string) |
 | [0151-reverse-words-in-a-string](https://github.com/1-Kiran/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/1-Kiran/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/1-Kiran/Leetcode/tree/master/0567-permutation-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/1-Kiran/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
