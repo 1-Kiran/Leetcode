@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/1-Kiran/Leetcode/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/1-Kiran/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/1-Kiran/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/1-Kiran/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/1-Kiran/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/1-Kiran/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +73,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/1-Kiran/Leetcode/tree/master/0567-permutation-in-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/1-Kiran/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0169-majority-element](https://github.com/1-Kiran/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/1-Kiran/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/1-Kiran/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/1-Kiran/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
